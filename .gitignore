@@ -1,0 +1,5 @@
+input_data/
+literatur/
+prepocessed_data_normalized/
+preprocessed_data_only_centered/
+*.csv
